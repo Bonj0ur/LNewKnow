@@ -4,7 +4,7 @@ Welcome to the official repository for our work **"Uncovering inequalities in ne
 
 ## 🌟 Overview
 
-![Figure_1](./assets/Figure_1.jpg)
+![Figure_1](./assets/Figure_1.JPG)
 
 ### Research Questions:
 
@@ -80,7 +80,7 @@ We used the constructed new knowledge datasets to evaluate the effectiveness of 
 bash scripts/effectiveness_evaluation.sh
 ```
 
-![Figure_2](./assets/Figure_2.jpg)
+![Figure_2](./assets/Figure_2.JPG)
 
 ### 2️⃣ Equally Transferable?
 
@@ -93,7 +93,7 @@ bash scripts/transferability_evaluation_in-context_learning.sh
 bash scripts/transferability_evaluation_fine-tuning.sh
 ```
 
-![Figure_3](./assets/Figure_3.jpg)
+![Figure_3](./assets/Figure_3.JPG)
 
 ### 3️⃣ Equally Prioritized?
 
@@ -106,7 +106,7 @@ bash scripts/prioritization_evaluation_in-context_learning.sh
 bash scripts/prioritization_evaluation_fine-tuning.sh
 ```
 
-![Figure_4](./assets/Figure_4.jpg)
+![Figure_4](./assets/Figure_4.JPG)
 
 ### 4️⃣ Equally Robust?
 
@@ -119,7 +119,7 @@ bash scripts/robustness_evaluation_in-context_learning.sh
 bash scripts/robustness_evaluation_fine-tuning.sh
 ```
 
-![Figure_5](./assets/Figure_5.jpg)
+![Figure_5](./assets/Figure_5.JPG)
 
 ### ✨ Analysis and Modeling of Linguistic Inequalities
 
@@ -136,7 +136,7 @@ bash scripts/tokenization_analysis.sh
 bash scripts/correlation_modeling.sh
 ```
 
-![Figure_6](./assets/Figure_6.jpg)
+![Figure_6](./assets/Figure_6.JPG)
 
 ### 🧠 Internal Mechanisms & Mitigation
 
