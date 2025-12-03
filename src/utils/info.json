@@ -1,0 +1,81 @@
+{
+    "apikey": "",
+    "languages": {
+        "English": {
+            "code": "eng",
+            "resource": "high"
+        },
+        "Chinese": {
+            "code": "zho",
+            "resource": "high"
+        },
+        "Japanese": {
+            "code": "jpn",
+            "resource": "high"
+        },
+        "French": {
+            "code": "fra",
+            "resource": "high"
+        },
+        "Spanish": {
+            "code": "spa",
+            "resource": "high"
+        },
+        "Italian": {
+            "code": "ita",
+            "resource": "high"
+        },
+        "Portuguese": {
+            "code": "por",
+            "resource": "high"
+        },
+        "Swedish": {
+            "code": "swe",
+            "resource": "medium"
+        },
+        "Korean": {
+            "code": "kor",
+            "resource": "medium"
+        },
+        "Danish": {
+            "code": "dan",
+            "resource": "medium"
+        },
+        "Thai": {
+            "code": "tha",
+            "resource": "medium"
+        },
+        "Hindi": {
+            "code": "hin",
+            "resource": "medium"
+        },
+        "Tamil": {
+            "code": "tam",
+            "resource": "low"
+        },
+        "Mongolian": {
+            "code": "mon",
+            "resource": "low"
+        },
+        "Welsh": {
+            "code": "cym",
+            "resource": "low"
+        },
+        "Swahili": {
+            "code":"swa",
+            "resource": "low"
+        },
+        "Turkmen": {
+            "code": "tuk",
+            "resource": "low"
+        },
+        "Scottish Gaelic": {
+            "code": "gla",
+            "resource": "low"
+        },
+        "Zulu": {
+            "code": "zul",
+            "resource": "low"
+        }
+    }
+}
